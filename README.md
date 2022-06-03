@@ -1,8 +1,8 @@
 # Note-Only
 Note Only
 
-Note Only : 
-https://www.techiedelight.com/determine-whether-a-given-bst-is-skewed/ 
+Note Only :  <\br>
+https://www.techiedelight.com/determine-whether-a-given-bst-is-skewed/
 https://github.com/Genymobile/mirror 
 https://cython.org/ 
 https://www.javahotchocolate.com/tutorials/jar-libraries.html 
