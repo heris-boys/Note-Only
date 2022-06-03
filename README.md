@@ -22,4 +22,14 @@ Standar FIPS 140-2 dan Teknologi Self-Encrypting Drive : <br/>
 https://www.seagate.com/id/id/tech-insights/fips-140-2-standard-and-self-encrypting-drive-technology-master-ti/  <br/>
 https://github.com/Hunterszone/BouncyCastleExamples [Example] <br/>
 
+
+**Build Native, Cross-Platform Apps** <br/>
+Rapid application development for Desktop, Web, Mobile & Raspberry Pi <br/>
+Use the same development tool and friendly programming language to build native apps for multiple platforms. <br/>
+https://www.xojo.com/ <br/>
+
+
+
 **Individual Contributor or People Manager**
+
+
