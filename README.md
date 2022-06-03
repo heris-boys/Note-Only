@@ -16,3 +16,5 @@ https://www.appdome.com/how-to/mobile-app-security/no-code-mobile-app-security/c
 
 Standar FIPS 140-2 dan Teknologi Self-Encrypting Drive : <br/>
 https://www.seagate.com/id/id/tech-insights/fips-140-2-standard-and-self-encrypting-drive-technology-master-ti/  <br/>
+
+**Individual Contributor or People Manager**
