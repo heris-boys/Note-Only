@@ -35,7 +35,7 @@ https://github.com/zuliha/Java-program-design/tree/fa6ead61633f9137cb51c21ebb298
 
 
 
-**Individual Contributor or People Manager** <br/>
+**Individual Contributor or People Manager** <br/> <br/>
 
 
 **SSL Pinner / SSL Pinning** <br/>
