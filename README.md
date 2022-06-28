@@ -35,6 +35,11 @@ https://github.com/zuliha/Java-program-design/tree/fa6ead61633f9137cb51c21ebb298
 
 
 
-**Individual Contributor or People Manager**
+**Individual Contributor or People Manager** <br/>
+
+
+**SSL Pinner / SSL Pinning** <br/>
+Apa itu SSL Pinning, Manfaat, dan Implementasinya Pada Aplikasi Mobile <br/>
+https://www.ethic.ninja/2020/09/apa-itu-ssl-pinning-manfaat-dan-implementasinya-pada-aplikasi-mobile.html <br/>
 
 
