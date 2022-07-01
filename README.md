@@ -9,7 +9,17 @@ https://www.javahotchocolate.com/tutorials/jar-libraries.html   <br/>
 https://github.com/superblaubeere27/obfuscator   <br/>
 https://www.lafiray.ma/2022/03/android-programming-for-beginners-in-pdf.html   <br/>
 
+FIPS 140-2 : <br/>
+https://csrc.nist.gov/projects/cryptographic-module-validation-program/validated-modules/search#1081 <br/>
+https://www.corsec.com/fips-140-2/#theplayers <br/>
+https://support.datalocker.com/support/solutions/articles/104685-fips-140-2-levels-explained <br/>
+
 Mobile Data with FIPS 140-2 : <br/>
+https://security.stackexchange.com/questions/48843/android-and-fips <br/>
+https://www.netsolutions.com/insights/how-to-protect-data-in-mobile-web-apps-using-encryption/#6-use-fips-140-2-encryption-for-government-apps <br/>
+https://source.android.com/security/reports/Google_Android_Enterprise_Security_Whitepaper_2020.pdf `keyword:FIPS 140-2` <br/>
+https://www.android.com/intl/id_id/enterprise/security/ <br/>
+https://www.jtsec.es/assets/img/infographics/fips_en.jpg <br/>
 https://www.appdome.com/   <br/>
 https://www.appdome.com/how-to/mobile-app-security/no-code-data-encryption/encrypt-android-ios-data-fips-140-2/   <br/>
 https://www.appdome.com/how-to/mobile-app-security/no-code-mobile-app-security/comprehensive-no-code-mobile-app-security-resources/  <br/>
