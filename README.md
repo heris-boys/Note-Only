@@ -53,3 +53,8 @@ Apa itu SSL Pinning, Manfaat, dan Implementasinya Pada Aplikasi Mobile <br/>
 https://www.ethic.ninja/2020/09/apa-itu-ssl-pinning-manfaat-dan-implementasinya-pada-aplikasi-mobile.html <br/>
 
 
+**Root detection & bypass** <br/>
+Bypassing Root Detection and Emulator Detection in Android Apps using Frida <br/>
+https://theoffensivelabs.medium.com/bypassing-root-detection-and-emulator-detection-in-android-apps-using-frida-e938109e468c <br/>
+
+
