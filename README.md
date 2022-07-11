@@ -51,6 +51,28 @@ https://github.com/zuliha/Java-program-design/tree/fa6ead61633f9137cb51c21ebb298
 **SSL Pinner / SSL Pinning** <br/>
 Apa itu SSL Pinning, Manfaat, dan Implementasinya Pada Aplikasi Mobile <br/>
 https://www.ethic.ninja/2020/09/apa-itu-ssl-pinning-manfaat-dan-implementasinya-pada-aplikasi-mobile.html <br/>
+How do I get public key hash for SSL pinning? <br/>
+https://stackoverflow.com/questions/40404963/how-do-i-get-public-key-hash-for-ssl-pinning <br/>
+https://github.com/square/okhttp/blob/6da4d59c2047c2d1d40625cebf87604e0d22b335/okhttp/src/main/java/okhttp3/CertificatePinner.java <br/><br/>
+3 Ways How To Implement Certificate Pinning on Android <br/>
+https://www.netguru.com/blog/3-ways-how-to-implement-certificate-pinning-on-android <br/>
+https://square.github.io/okhttp/3.x/okhttp/okhttp3/CertificatePinner.html <br/>
+How can I pin a certificate with Square OKHTTP? <br/>
+https://stackoverflow.com/questions/24006545/how-can-i-pin-a-certificate-with-square-okhttp <br/>
+Perbedaan antara SSL dan TLS dan penggunaannya di Java <br/>
+https://stackoverflow.com/questions/13135230/difference-between-ssl-and-tls-and-their-usage-in-java <br/>
+
+
+**Webview on Android** <br/>
+Android security checklist: WebView <br/>
+https://blog.oversecured.com/Android-security-checklist-webview/ <br/>
+
+
+**Root check and SafetyNet** <br/>
+SafetyNet unable to get result <br/>
+https://stackoverflow.com/questions/52849026/safetynet-unable-to-get-result <br/>
+Android Root Detection Bypass <br/>
+https://masscan.github.io/2021-01-28-Androi-Root-Detection-Bypass/ <br/>
 
 
 **Root detection & bypass** <br/>
